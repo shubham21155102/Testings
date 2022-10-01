@@ -1,0 +1,1 @@
+{"name":"Local: maximum_stones","url":"d:\\competete\\maximum_stones.cpp","tests":[{"id":1660542808026,"input":"5 2\n1 3 1 2\n1 5 2 7","output":"9"},{"id":1660542880606,"input":"","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\competete\\maximum_stones.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: a+b+c=n","url":"d:\\competete\\a+b+c=n.cpp","tests":[{"id":1664274945562,"input":"5","output":"11"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\competete\\a+b+c=n.cpp","group":"local","local":true}
