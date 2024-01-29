@@ -1,7 +1,0 @@
-# print(*input().split('WUB'))
-# s=input().split('WUB')
-# print(*s)
-# s=input().split('WUB')
-# print(s)
-print(*input().split('WUB'))
-# print(input().split('WUB'))
